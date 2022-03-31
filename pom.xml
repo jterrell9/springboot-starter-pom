@@ -23,7 +23,7 @@
 		</project.reporting.outputEncoding>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
-		<spring.boot.version>2.2.2.RELEASE</spring.boot.version>
+		<spring.boot.version>2.5.12</spring.boot.version>
 		<camel.version>2.24.2</camel.version>
 	</properties>
 
